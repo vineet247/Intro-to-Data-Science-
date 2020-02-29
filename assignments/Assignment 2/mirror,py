@@ -1,0 +1,8 @@
+import math
+
+n = 30.0
+a = 3.0
+
+if((n%10)==0):
+    if((n/10)==(a)):
+        print("Mirror")
